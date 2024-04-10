@@ -72,3 +72,6 @@ Next.js의 기본 디렉토리 구조는 다음과 같습니다:
 - **유지보수성**: 유사한 기능을 하는 파일들은 같은 디렉토리에 배치하여 관리와 유지보수를 용이하게 합니다.
 
 프로젝트의 요구사항과 팀의 작업 방식에 맞춰 디렉토리 구조를 설계하면, 개발 과정이 더 원활하고 효율적일 것입니다.
+
+
+https://developers.google.com/identity/protocols/oauth2/web-server?hl=ko#enable-apis
